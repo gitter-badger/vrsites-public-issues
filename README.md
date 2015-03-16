@@ -1,4 +1,6 @@
 # vrsites.com
+
+[![Join the chat at https://gitter.im/vrsites/vrsites-public-issues](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/vrsites/vrsites-public-issues?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 Public [issue queue](https://github.com/vrsites/vrsites.com/issues) for [vrsites.com](http://vrsites.com)
 
 ## Topics
